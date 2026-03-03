@@ -1,0 +1,55 @@
+
+Yu.png
+size: 1184,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yu_Qi1
+  rotate: false
+  xy: 1030, 112
+  size: 76, 139
+  orig: 76, 139
+  offset: 0, 0
+  index: -1
+Yu_Qi2
+  rotate: true
+  xy: 1108, 175
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+Yu_Qi3
+  rotate: true
+  xy: 917, 63
+  size: 188, 111
+  orig: 188, 111
+  offset: 0, 0
+  index: -1
+Yu_Qi4
+  rotate: true
+  xy: 1040, 11
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+Yu_Qi5
+  rotate: true
+  xy: 917, 1
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+Yu_QuGan
+  rotate: false
+  xy: 0, 0
+  size: 808, 251
+  orig: 808, 251
+  offset: 0, 0
+  index: -1
+Yu_WeiBa
+  rotate: false
+  xy: 810, 11
+  size: 105, 240
+  orig: 105, 240
+  offset: 0, 0
+  index: -1
